@@ -1,5 +1,5 @@
 # Fear & Hunger2 Termina 日本語化MOD
-こちらは「Fear & Hunger 2:Termina」 の日本語化MODの配布場所になります。
+こちらのプロジェクトは「Fear & Hunger 2:Termina」 の日本語化MODの配布場所になります。
 
 ## 📦 Fear&Hunger 2 のMOD一覧
 - 基本の日本語化MOD(最新ver.0991)
@@ -14,4 +14,5 @@
 2. 解凍したフォルダ内部にあるREADME.txtにある使用方法にあるインストール方法とアンインストール方法をご覧下さい。
 
 ## 📄 ライセンス
-本プロジェクトは Fear & Hunger 2の日本語化MODになります。
+本プロジェクトは Fear & Hunger 2の非公式日本語化MODになります。
+本MODのご利用は自己責任でお願い致します。
