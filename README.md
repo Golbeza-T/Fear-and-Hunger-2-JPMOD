@@ -1,7 +1,7 @@
 # Fear & Hunger2 Termina 日本語化MOD
 こちらのプロジェクトはPCゲーム「Fear & Hunger 2:Termina」 の日本語化MODの配布場所になります。
+- https://store.steampowered.com/app/2171440/Fear_Hunger_2_Termina/
 <img width="816" height="624" alt="JPtitle" src="https://github.com/user-attachments/assets/16624091-153c-48de-8f54-9e65cb0a0e95" />
-https://store.steampowered.com/app/2171440/Fear_Hunger_2_Termina/
 
 ## 📦 Fear & Hunger 2 のMOD一覧
 1. 基本の日本語化MOD(最新ver.0991)
