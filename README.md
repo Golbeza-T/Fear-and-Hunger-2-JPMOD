@@ -7,8 +7,8 @@
 - 日本語化MOD + 黒塗り検閲MOD（試）
 
 ## 📋 ダウンロード
-ページ右上にある<img width="114" height="51" alt="ClipBoard_1" src="https://github.com/user-attachments/assets/01b57a63-bbb4-41f4-ad5b-c4c29c80a439" />からDownload ZIPを選択しダウンロードして下さい。
-またはページ右にあるReleasesから選択し、ダウンロードをどうぞ。
+- ページ右上にある<img width="114" height="51" alt="ClipBoard_1" src="https://github.com/user-attachments/assets/01b57a63-bbb4-41f4-ad5b-c4c29c80a439" />からDownload ZIPを選択しダウンロードして下さい。
+- またはページ右にあるReleasesから選択し、ダウンロードをどうぞ。
 
 ## 📝 使用方法
 1. ダウンロードしたzipファイルをファイル上でマウス右クリック等でファイル解凍します。
