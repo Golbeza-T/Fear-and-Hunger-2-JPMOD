@@ -16,7 +16,7 @@
 
 ## 📝 Steam日本語化MOD紹介ガイドとイベントガイド
 
-R-18タイトルの為、閲覧にはログイン必須です。Steamクライアントからガイド検索からでも可！
+R-18ゲームの為、閲覧にはログイン必須です。Steamクライアントからガイド検索からでも可！
 1. Fear & Hunger 2 : Termina 日本語化MOD紹介ガイド（Steamへログインしてご覧下さい）
 - https://steamcommunity.com/sharedfiles/filedetails/?id=3494451890
 
