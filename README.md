@@ -1,18 +1,27 @@
 # Fear & Hunger2 Termina 日本語化MOD
-こちらのプロジェクトは「Fear & Hunger 2:Termina」 の日本語化MODの配布場所になります。
+こちらのプロジェクトはPCゲーム「Fear & Hunger 2:Termina」 の日本語化MODの配布場所になります。
 <img width="816" height="624" alt="JPtitle" src="https://github.com/user-attachments/assets/16624091-153c-48de-8f54-9e65cb0a0e95" />
 
-## 📦 Fear&Hunger 2 のMOD一覧
-- 基本の日本語化MOD(最新ver.0991)
-- 日本語化MOD + 悟りの書（いつでもどこでもセーブ可能アイテム）x99個入手MOD
-- 日本語化MOD + 配信支援用黒塗り検閲MOD（試）
+## 📦 Fear & Hunger 2 のMOD一覧
+1. 基本の日本語化MOD(最新ver.0991)
+2. 日本語化MOD + 悟りの書（いつでもどこでもセーブ可能アイテム）x99個入手MOD
+3. 日本語化MOD + 配信支援用黒塗り検閲MOD（試）
 
 ## 📋 ダウンロード
 - ページ右にあるReleasesをクリックし、ダウンロード専用ページから必要なファイルをダウンロード下さい。
 
 ## 📝 使用方法
 1. ダウンロードしたzipファイルをファイル上でマウス右クリック等でファイル解凍します。
-2. 解凍したフォルダ内部にあるREADME.txtにある使用方法にあるインストール方法とアンインストール方法をご覧下さい。
+2. 解凍したフォルダ内部にあるREADME.txtにあるインストールとアンインストール方法をご覧下さい。
+
+## 📝 Steam日本語化MOD紹介ガイドとイベントガイド
+
+R-18タイトルの為、閲覧にはログイン必須です。Steamクライアントからガイド検索からでも可！
+1. Fear & Hunger 2 : Termina 日本語化MOD紹介ガイド（Steamへログインしてご覧下さい）
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3494451890
+
+2. Fear & Hunger 2 : Termina イベントガイド（Steamへログインしてご覧下さい）
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3486271780
 
 ## 📄 ライセンス
 - 本プロジェクトは Fear & Hunger 2の非公式日本語化MODになります。
